@@ -1,3 +1,4 @@
+(A Jar file is included for testing purposes)
 Hospital Patient Monitor
 By:
   Alpha Mai, 
